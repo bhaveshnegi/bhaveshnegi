@@ -1,5 +1,5 @@
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F71C&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Bhavesh+Negi;AI+Engineer+%7C+ML%2FDL+Enthusiast;Data+Science+%7C+Cloud+Learner;Code.+Learn.+Build.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F71C&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Bhavesh+Negi;AI+Engineer+%7C+ML%2FDL;Data+Science+%7C+Cloud+Learner;Code.+Learn.+Build.+Repeat.)](https://git.io/typing-svg)
 
 ---
 # 💫 About Me: 

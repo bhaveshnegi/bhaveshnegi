@@ -3,7 +3,7 @@
 
 ---
 # 💫 About Me: 
-I’m a recent B.Tech CSE graduate currently working as an AI Engineer at a startup @Phoal Digital, where I design and build AI models, end-to-end model pipelines, and backend APIs for applications.  <br><br>I have industry experience through internships, including:  <br>Analytics Intern at Adani Power– Worked on data analysis , Ml model and Automation development.  <br>Data Science Intern at UCT Pvt. Ltd.– Developed data-driven solutions using machine learning techniques.  <br><br>My expertise spans machine learning, deep learning, and backend development, with hands-on work in Python, Flask, react and node . I’m passionate about leveraging AI to solve complex problems and creating scalable, production-ready systems.  <br><br>Always learning, always building.
+I’m a recent B.Tech CSE graduate currently working as an AI Engineer at a startup @NexBack Technology, where I design and build AI models, end-to-end model pipelines, and backend APIs for applications.  <br><br>I have industry experience through internships, including:  <br>Analytics Intern at Adani Power– Worked on data analysis , Ml model and Automation development.  <br>Data Science Intern at UCT Pvt. Ltd.– Developed data-driven solutions using machine learning techniques.  <br><br>My expertise spans machine learning, deep learning, and backend development, with hands-on work in Python, Flask, react and node . I’m passionate about leveraging AI to solve complex problems and creating scalable, production-ready systems.  <br><br>Always learning, always building.
 
 
 ## 🌐 Socials:

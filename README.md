@@ -1,5 +1,5 @@
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F71C&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Bhavesh+Negi;AI+Engineer+%7C+ML%2FDL;Data+Science+%7C+Cloud+Learner;Code.+Learn.+Build.+Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F71C&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Bhavesh+Negi;AI+Engineer+%7C+GEN+AI%2FAGENTIC+AI;Data+Science+%7C+Cloud+Learner;Code.+Learn.+Build.+Repeat.)](https://git.io/typing-svg)
 
 ---
 <p align="left">Hello Everyone<br><br>AI Engineer at a startup @NexBack Technology, where I design and build AI models, end-to-end model pipelines, and backend APIs for applications.<br><br>I have industry experience through internships, including:<br>Analytics Intern at Adani Power– Worked on data analysis , Ml model and Automation development.<br><br>My expertise spans machine learning, deep learning, and backend development, with hands-on work in Python, Flask, react and node . I’m passionate about leveraging AI to solve complex problems and creating scalable, production-ready systems.<br><br>Always learning, always building.</p>
